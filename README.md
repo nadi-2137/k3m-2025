@@ -1,4 +1,3 @@
-// README.md - Instrukcja implementacji obrazów
 # Instrukcja implementacji obrazów w projekcie Konstytucja 3 Maja
 
 ## Struktura folderów
